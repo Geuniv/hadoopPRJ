@@ -1,4 +1,4 @@
-package kopo.poly.service.impl;
+package kopo.poly.service;
 
 import kopo.poly.dto.HadoopDTO;
 
